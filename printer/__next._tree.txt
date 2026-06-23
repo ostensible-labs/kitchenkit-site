@@ -1,5 +1,4 @@
-:HL["/_next/static/chunks/02lc~yu0m.g5_.css","style"]
-:HL["/_next/static/chunks/0njtrx52cuap4.css","style"]
+:HL["/_next/static/chunks/13h~jlx_cu~kt.css","style"]
 :HL["/_next/static/chunks/0i_fiq9~obleo.css","style"]
 :HL["/_next/static/media/406d3fc8d5ec9f59-s.p.06~5xv2ritwv5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -14,4 +13,4 @@
 :HL["/printer/shortcut-print-flow.png","image"]
 :HL["/printer/receipt-printer.jpg","image"]
 :HL["/printer/printed-receipt-closeup.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(main)","param":null,"prefetchHints":16,"slots":{"children":{"name":"printer","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ELPGN2ZzDlso9m0VfXbOh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(main)","param":null,"prefetchHints":16,"slots":{"children":{"name":"printer","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"4wJXLwtI1DTxI_RA2_qTn"}
